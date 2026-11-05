@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140">
+  <rect width="200" height="140" rx="20" fill="#cfe3ff"/>
+  <g fill="#ffcf40" stroke="#d9a400" stroke-width="2">
+    <rect x="72" y="22" width="10" height="56" rx="3" transform="rotate(-12 77 50)"/>
+    <rect x="86" y="14" width="10" height="64" rx="3" transform="rotate(-4 91 46)"/>
+    <rect x="100" y="12" width="10" height="66" rx="3" transform="rotate(3 105 45)"/>
+    <rect x="114" y="18" width="10" height="60" rx="3" transform="rotate(10 119 48)"/>
+    <rect x="94" y="26" width="10" height="52" rx="3" transform="rotate(-18 99 52)"/>
+  </g>
+  <path d="M62 60h76l-10 66H72z" fill="#e63946" stroke="#2b2118" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="88" cy="88" r="5" fill="#fff"/><circle cx="112" cy="88" r="5" fill="#fff"/>
+  <circle cx="89" cy="89" r="2.5" fill="#2b2118"/><circle cx="113" cy="89" r="2.5" fill="#2b2118"/>
+  <path d="M90 104q10 8 20 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M30 40q10-14 20-2q-10 6-20 2z" fill="#fff" stroke="#2b2118" stroke-width="1.5"/>
+  <path d="M152 30q10-14 20-2q-10 6-20 2z" fill="#fff" stroke="#2b2118" stroke-width="1.5" transform="rotate(20 162 30)"/>
+  <path d="M160 100q10-14 20-2q-10 6-20 2z" fill="#fff" stroke="#2b2118" stroke-width="1.5"/>
+</svg>
